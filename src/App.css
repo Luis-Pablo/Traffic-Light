@@ -16,3 +16,25 @@
   margin: 10px;
   
 }
+
+.rojo {
+  box-shadow: 0px 0px 20px 10px red;
+
+}
+.ro{
+  background-color: red;
+}
+.amarillo {
+  box-shadow: 0px 0px 20px 10px yellow;
+
+}
+.am{
+  background-color: yellow;
+}
+.verde {
+  box-shadow: 0px 0px 20px 10px green;
+ 
+}
+.ve {
+  background-color: green;
+}
